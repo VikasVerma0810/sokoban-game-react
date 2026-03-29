@@ -3,6 +3,7 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
+  "homepage": "https://vikasverma0810.github.io/sokoban-game-react",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,6 +14,7 @@
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vite": "^5.4.10"
   }
 }
